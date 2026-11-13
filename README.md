@@ -3,6 +3,12 @@
 A free, private, open-source iPhone and iPad remote for LG webOS smart TVs (2014 and newer).
 No ads. No accounts. No analytics. No tracking. TV control stays on your home network.
 
+**[Download on the App Store](https://apps.apple.com/app/id6832146804)** · free, iOS 17+
+
+| Remote | Touchpad | Apps | Inputs |
+|---|---|---|---|
+| <img src="docs/screenshots/remote.jpg" width="200" alt="Remote screen with an LG Magic Remote"> | <img src="docs/screenshots/touchpad.jpg" width="200" alt="Touchpad screen"> | <img src="docs/screenshots/apps.jpg" width="200" alt="Apps grid"> | <img src="docs/screenshots/inputs.jpg" width="200" alt="Inputs list"> |
+
 ## Features
 
 - **Your remote** — pick the LG remote that looks like yours from 14 illustrated layouts and
@@ -110,7 +116,7 @@ Packages/LGKit/        Swift package — everything that talks to a TV, testable
 ## Contributing
 
 Contributions are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md). Bug reports and feature
-ideas: GitHub Issues. Please include your TV model and webOS version.
+ideas: [GitHub Issues](https://github.com/cyberst/open-remote-lg/issues). Please include your TV model and webOS version.
 
 ## License
 

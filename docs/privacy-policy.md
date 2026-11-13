@@ -76,7 +76,7 @@ The app is suitable for all ages and collects no information from anyone, includ
 ## Open source
 
 The app's complete source code is public, so anyone can verify these statements:
-<https://github.com/OWNER/open-remote-lg>.
+<https://github.com/cyberst/open-remote-lg>.
 
 ## Changes
 
@@ -87,7 +87,7 @@ directly.
 ## Contact
 
 Questions about privacy: open an issue at
-<https://github.com/OWNER/open-remote-lg/issues>.
+<https://github.com/cyberst/open-remote-lg/issues>.
 
 ---
 

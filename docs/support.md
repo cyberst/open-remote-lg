@@ -2,7 +2,7 @@
 
 Open Remote is a free, open-source remote for LG webOS smart TVs (2014 and newer).
 Need help, found a bug, or have an idea? Open an issue:
-**<https://github.com/OWNER/open-remote-lg/issues>** — please include your TV model
+**<https://github.com/cyberst/open-remote-lg/issues>** — please include your TV model
 (Settings → General → About This TV), the webOS version, and your iOS version.
 
 ## Getting connected
