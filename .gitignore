@@ -1,0 +1,26 @@
+.DS_Store
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+.build/
+.swiftpm/
+Packages/LGKit/.build/
+.tvtest/
+*.ipa
+*.xcarchive
+__pycache__/
+.image-optimization/
+OpenRemote/Resources/Remotes/contact-sheet.jpg
+.wrangler/
+
+# Secrets and signing material
+.env
+.env.*
+*.p8
+*.p12
+*.cer
+*.mobileprovision
+
+# Personal signing overrides (see Config/Signing.xcconfig)
+Config/Signing.local.xcconfig

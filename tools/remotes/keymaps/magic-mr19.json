@@ -1,0 +1,517 @@
+{
+ "id": "magic-mr19",
+ "note": "Key centres and sizes in pixels of the refreshed ChatGPT source image (1024x1536, generated 2026-11-11). Studio background removed to alpha; physical shortcut labels restored. map-keys.swift converts these coordinates to the processed image.",
+ "sourceSize": [
+  1024,
+  1536
+ ],
+ "keys": [
+  {
+   "id": "power",
+   "action": "power",
+   "shape": "circle",
+   "c": [
+    434,
+    190
+   ],
+   "s": [
+    72,
+    76
+   ]
+  },
+  {
+   "id": "stbPower",
+   "action": "unsupported:Set-top box power",
+   "shape": "circle",
+   "c": [
+    584,
+    192
+   ],
+   "s": [
+    78,
+    78
+   ]
+  },
+  {
+   "id": "1",
+   "action": "key:1",
+   "shape": "rect",
+   "c": [
+    425,
+    276
+   ],
+   "s": [
+    84,
+    48
+   ]
+  },
+  {
+   "id": "2",
+   "action": "key:2",
+   "shape": "rect",
+   "c": [
+    509,
+    276
+   ],
+   "s": [
+    84,
+    48
+   ]
+  },
+  {
+   "id": "3",
+   "action": "key:3",
+   "shape": "rect",
+   "c": [
+    593,
+    276
+   ],
+   "s": [
+    84,
+    48
+   ]
+  },
+  {
+   "id": "4",
+   "action": "key:4",
+   "shape": "rect",
+   "c": [
+    425,
+    336
+   ],
+   "s": [
+    84,
+    48
+   ]
+  },
+  {
+   "id": "5",
+   "action": "key:5",
+   "shape": "rect",
+   "c": [
+    509,
+    336
+   ],
+   "s": [
+    84,
+    48
+   ]
+  },
+  {
+   "id": "6",
+   "action": "key:6",
+   "shape": "rect",
+   "c": [
+    593,
+    336
+   ],
+   "s": [
+    84,
+    48
+   ]
+  },
+  {
+   "id": "7",
+   "action": "key:7",
+   "shape": "rect",
+   "c": [
+    425,
+    396
+   ],
+   "s": [
+    84,
+    48
+   ]
+  },
+  {
+   "id": "8",
+   "action": "key:8",
+   "shape": "rect",
+   "c": [
+    509,
+    396
+   ],
+   "s": [
+    84,
+    48
+   ]
+  },
+  {
+   "id": "9",
+   "action": "key:9",
+   "shape": "rect",
+   "c": [
+    593,
+    396
+   ],
+   "s": [
+    84,
+    48
+   ]
+  },
+  {
+   "id": "list",
+   "action": "key:LIST",
+   "shape": "rect",
+   "c": [
+    424,
+    456
+   ],
+   "s": [
+    88,
+    48
+   ]
+  },
+  {
+   "id": "0",
+   "action": "key:0",
+   "shape": "rect",
+   "c": [
+    509,
+    456
+   ],
+   "s": [
+    84,
+    48
+   ]
+  },
+  {
+   "id": "more",
+   "action": "unsupported:More actions",
+   "shape": "rect",
+   "c": [
+    597,
+    456
+   ],
+   "s": [
+    88,
+    48
+   ]
+  },
+  {
+   "id": "volumeUp",
+   "action": "volumeUp",
+   "shape": "capsule",
+   "c": [
+    411,
+    543
+   ],
+   "s": [
+    82,
+    46
+   ]
+  },
+  {
+   "id": "volumeDown",
+   "action": "volumeDown",
+   "shape": "capsule",
+   "c": [
+    411,
+    644
+   ],
+   "s": [
+    84,
+    48
+   ]
+  },
+  {
+   "id": "mute",
+   "action": "key:MUTE",
+   "shape": "circle",
+   "c": [
+    512,
+    545
+   ],
+   "s": [
+    76,
+    76
+   ]
+  },
+  {
+   "id": "voice",
+   "action": "voice",
+   "shape": "capsule",
+   "c": [
+    513,
+    651
+   ],
+   "s": [
+    74,
+    104
+   ]
+  },
+  {
+   "id": "channelUp",
+   "action": "channelUp",
+   "shape": "capsule",
+   "c": [
+    613,
+    541
+   ],
+   "s": [
+    82,
+    58
+   ]
+  },
+  {
+   "id": "channelDown",
+   "action": "channelDown",
+   "shape": "capsule",
+   "c": [
+    613,
+    644
+   ],
+   "s": [
+    82,
+    60
+   ]
+  },
+  {
+   "id": "home",
+   "action": "key:HOME",
+   "shape": "capsule",
+   "c": [
+    403,
+    709
+   ],
+   "s": [
+    84,
+    52
+   ]
+  },
+  {
+   "id": "settings",
+   "action": "key:QMENU",
+   "shape": "capsule",
+   "c": [
+    621,
+    708
+   ],
+   "s": [
+    88,
+    52
+   ]
+  },
+  {
+   "id": "up",
+   "action": "key:UP",
+   "shape": "rect",
+   "c": [
+    514,
+    763
+   ],
+   "s": [
+    120,
+    60
+   ]
+  },
+  {
+   "id": "down",
+   "action": "key:DOWN",
+   "shape": "rect",
+   "c": [
+    514,
+    944
+   ],
+   "s": [
+    120,
+    60
+   ]
+  },
+  {
+   "id": "left",
+   "action": "key:LEFT",
+   "shape": "rect",
+   "c": [
+    423,
+    853
+   ],
+   "s": [
+    60,
+    120
+   ]
+  },
+  {
+   "id": "right",
+   "action": "key:RIGHT",
+   "shape": "rect",
+   "c": [
+    604,
+    853
+   ],
+   "s": [
+    60,
+    120
+   ]
+  },
+  {
+   "id": "ok",
+   "action": "key:ENTER",
+   "shape": "circle",
+   "c": [
+    514,
+    853
+   ],
+   "s": [
+    120,
+    120
+   ]
+  },
+  {
+   "id": "back",
+   "action": "key:BACK",
+   "shape": "capsule",
+   "c": [
+    406,
+    995
+   ],
+   "s": [
+    90,
+    50
+   ]
+  },
+  {
+   "id": "guide",
+   "action": "key:GUIDE",
+   "shape": "capsule",
+   "c": [
+    621,
+    995
+   ],
+   "s": [
+    90,
+    50
+   ]
+  },
+  {
+   "id": "netflix",
+   "action": "app:netflix",
+   "shape": "capsule",
+   "c": [
+    414,
+    1060
+   ],
+   "s": [
+    84,
+    50
+   ]
+  },
+  {
+   "id": "input",
+   "action": "inputs",
+   "shape": "circle",
+   "c": [
+    516,
+    1058
+   ],
+   "s": [
+    74,
+    76
+   ]
+  },
+  {
+   "id": "primeVideo",
+   "action": "app:amazon",
+   "shape": "capsule",
+   "c": [
+    620,
+    1060
+   ],
+   "s": [
+    84,
+    50
+   ]
+  },
+  {
+   "id": "red",
+   "action": "key:RED",
+   "shape": "capsule",
+   "c": [
+    414,
+    1125
+   ],
+   "s": [
+    60,
+    38
+   ]
+  },
+  {
+   "id": "green",
+   "action": "key:GREEN",
+   "shape": "capsule",
+   "c": [
+    480,
+    1125
+   ],
+   "s": [
+    60,
+    38
+   ]
+  },
+  {
+   "id": "yellow",
+   "action": "key:YELLOW",
+   "shape": "capsule",
+   "c": [
+    553,
+    1125
+   ],
+   "s": [
+    60,
+    38
+   ]
+  },
+  {
+   "id": "blue",
+   "action": "key:BLUE",
+   "shape": "capsule",
+   "c": [
+    624,
+    1125
+   ],
+   "s": [
+    60,
+    38
+   ]
+  },
+  {
+   "id": "movies",
+   "action": "app:movie",
+   "shape": "capsule",
+   "c": [
+    437,
+    1188
+   ],
+   "s": [
+    80,
+    48
+   ]
+  },
+  {
+   "id": "play",
+   "action": "key:PLAY",
+   "shape": "capsule",
+   "c": [
+    522,
+    1188
+   ],
+   "s": [
+    80,
+    48
+   ]
+  },
+  {
+   "id": "pause",
+   "action": "key:PAUSE",
+   "shape": "capsule",
+   "c": [
+    605,
+    1188
+   ],
+   "s": [
+    80,
+    48
+   ]
+  }
+ ]
+}

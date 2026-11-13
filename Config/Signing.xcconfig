@@ -1,0 +1,15 @@
+// Code signing for Open Remote.
+//
+// The values below sign the published App Store build. To run the app on your own device,
+// don't edit this file or the Xcode project. Instead create Config/Signing.local.xcconfig
+// (git ignores it) with your own values:
+//
+//   DEVELOPMENT_TEAM = ABCDE12345
+//   BUNDLE_ID_PREFIX = com.yourname
+//
+// Simulator builds need neither.
+
+DEVELOPMENT_TEAM = 98U358V3HD
+BUNDLE_ID_PREFIX = com.simber
+
+#include? "Signing.local.xcconfig"

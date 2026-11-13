@@ -1,0 +1,621 @@
+{
+ "id": "standard-6710t00017v",
+ "note": "Key centres and sizes in pixels of the ChatGPT source image (1024x1536). map-keys.swift converts them to the processed PNG. Colour keys (printed PIP PR-, PIP PR+, SWAP, PIP INPUT) are RED/GREEN/YELLOW/BLUE. MARK and LIVE TV are body print under the fast-forward and skip-forward keys; skip-forward (LIVE TV) and skip-back have no network command.",
+ "sourceSize": [
+  1024,
+  1536
+ ],
+ "keys": [
+  {
+   "id": "input",
+   "action": "inputs",
+   "shape": "capsule",
+   "c": [
+    384,
+    72
+   ],
+   "s": [
+    84,
+    40
+   ]
+  },
+  {
+   "id": "power",
+   "action": "power",
+   "shape": "capsule",
+   "c": [
+    512,
+    72
+   ],
+   "s": [
+    146,
+    52
+   ]
+  },
+  {
+   "id": "multimedia",
+   "action": "unsupported:Multimedia",
+   "shape": "capsule",
+   "c": [
+    641,
+    72
+   ],
+   "s": [
+    84,
+    40
+   ]
+  },
+  {
+   "id": "tvMode",
+   "action": "unsupported:TV mode",
+   "shape": "capsule",
+   "c": [
+    393,
+    142
+   ],
+   "s": [
+    100,
+    38
+   ]
+  },
+  {
+   "id": "dvdMode",
+   "action": "unsupported:DVD mode",
+   "shape": "capsule",
+   "c": [
+    513,
+    142
+   ],
+   "s": [
+    100,
+    38
+   ]
+  },
+  {
+   "id": "vcrMode",
+   "action": "unsupported:VCR mode",
+   "shape": "capsule",
+   "c": [
+    633,
+    142
+   ],
+   "s": [
+    100,
+    38
+   ]
+  },
+  {
+   "id": "audioMode",
+   "action": "unsupported:Audio mode",
+   "shape": "capsule",
+   "c": [
+    392,
+    218
+   ],
+   "s": [
+    100,
+    38
+   ]
+  },
+  {
+   "id": "cableMode",
+   "action": "unsupported:Cable mode",
+   "shape": "capsule",
+   "c": [
+    513,
+    218
+   ],
+   "s": [
+    100,
+    38
+   ]
+  },
+  {
+   "id": "stbMode",
+   "action": "unsupported:Set-top box mode",
+   "shape": "capsule",
+   "c": [
+    634,
+    218
+   ],
+   "s": [
+    100,
+    38
+   ]
+  },
+  {
+   "id": "stop",
+   "action": "key:STOP",
+   "shape": "capsule",
+   "c": [
+    381,
+    286
+   ],
+   "s": [
+    78,
+    40
+   ]
+  },
+  {
+   "id": "play",
+   "action": "key:PLAY",
+   "shape": "capsule",
+   "c": [
+    470,
+    286
+   ],
+   "s": [
+    78,
+    40
+   ]
+  },
+  {
+   "id": "pause",
+   "action": "key:PAUSE",
+   "shape": "capsule",
+   "c": [
+    557,
+    286
+   ],
+   "s": [
+    78,
+    40
+   ]
+  },
+  {
+   "id": "record",
+   "action": "key:RECORD",
+   "shape": "capsule",
+   "c": [
+    646,
+    286
+   ],
+   "s": [
+    78,
+    40
+   ]
+  },
+  {
+   "id": "skipBack",
+   "action": "unsupported:Skip back",
+   "shape": "capsule",
+   "c": [
+    380,
+    350
+   ],
+   "s": [
+    78,
+    38
+   ]
+  },
+  {
+   "id": "rewind",
+   "action": "key:REWIND",
+   "shape": "capsule",
+   "c": [
+    468,
+    350
+   ],
+   "s": [
+    78,
+    38
+   ]
+  },
+  {
+   "id": "fastForward",
+   "action": "key:FASTFORWARD",
+   "shape": "capsule",
+   "c": [
+    557,
+    350
+   ],
+   "s": [
+    78,
+    38
+   ]
+  },
+  {
+   "id": "liveTv",
+   "action": "unsupported:Live TV",
+   "shape": "capsule",
+   "c": [
+    646,
+    350
+   ],
+   "s": [
+    78,
+    38
+   ]
+  },
+  {
+   "id": "menu",
+   "action": "key:MENU",
+   "shape": "capsule",
+   "c": [
+    385,
+    440
+   ],
+   "s": [
+    92,
+    46
+   ]
+  },
+  {
+   "id": "xstudio",
+   "action": "unsupported:XStudio Pro",
+   "shape": "capsule",
+   "c": [
+    512,
+    440
+   ],
+   "s": [
+    130,
+    48
+   ]
+  },
+  {
+   "id": "exit",
+   "action": "key:EXIT",
+   "shape": "capsule",
+   "c": [
+    640,
+    440
+   ],
+   "s": [
+    92,
+    46
+   ]
+  },
+  {
+   "id": "up",
+   "action": "key:UP",
+   "shape": "rect",
+   "c": [
+    512,
+    527
+   ],
+   "s": [
+    180,
+    60
+   ]
+  },
+  {
+   "id": "down",
+   "action": "key:DOWN",
+   "shape": "rect",
+   "c": [
+    512,
+    685
+   ],
+   "s": [
+    180,
+    60
+   ]
+  },
+  {
+   "id": "left",
+   "action": "key:LEFT",
+   "shape": "rect",
+   "c": [
+    390,
+    605
+   ],
+   "s": [
+    70,
+    160
+   ]
+  },
+  {
+   "id": "right",
+   "action": "key:RIGHT",
+   "shape": "rect",
+   "c": [
+    634,
+    605
+   ],
+   "s": [
+    70,
+    160
+   ]
+  },
+  {
+   "id": "ok",
+   "action": "key:ENTER",
+   "shape": "capsule",
+   "c": [
+    512,
+    605
+   ],
+   "s": [
+    150,
+    84
+   ]
+  },
+  {
+   "id": "red",
+   "action": "key:RED",
+   "shape": "capsule",
+   "c": [
+    385,
+    766
+   ],
+   "s": [
+    80,
+    38
+   ]
+  },
+  {
+   "id": "green",
+   "action": "key:GREEN",
+   "shape": "capsule",
+   "c": [
+    470,
+    760
+   ],
+   "s": [
+    80,
+    38
+   ]
+  },
+  {
+   "id": "yellow",
+   "action": "key:YELLOW",
+   "shape": "capsule",
+   "c": [
+    554,
+    760
+   ],
+   "s": [
+    80,
+    38
+   ]
+  },
+  {
+   "id": "blue",
+   "action": "key:BLUE",
+   "shape": "capsule",
+   "c": [
+    640,
+    766
+   ],
+   "s": [
+    80,
+    38
+   ]
+  },
+  {
+   "id": "volumeUp",
+   "action": "volumeUp",
+   "shape": "rect",
+   "c": [
+    391,
+    866
+   ],
+   "s": [
+    82,
+    74
+   ]
+  },
+  {
+   "id": "volumeDown",
+   "action": "volumeDown",
+   "shape": "rect",
+   "c": [
+    391,
+    937
+   ],
+   "s": [
+    82,
+    74
+   ]
+  },
+  {
+   "id": "mute",
+   "action": "key:MUTE",
+   "shape": "capsule",
+   "c": [
+    513,
+    868
+   ],
+   "s": [
+    100,
+    38
+   ]
+  },
+  {
+   "id": "text",
+   "action": "key:TELETEXT",
+   "shape": "capsule",
+   "c": [
+    513,
+    932
+   ],
+   "s": [
+    100,
+    38
+   ]
+  },
+  {
+   "id": "channelUp",
+   "action": "channelUp",
+   "shape": "rect",
+   "c": [
+    636,
+    866
+   ],
+   "s": [
+    82,
+    74
+   ]
+  },
+  {
+   "id": "channelDown",
+   "action": "channelDown",
+   "shape": "rect",
+   "c": [
+    636,
+    937
+   ],
+   "s": [
+    82,
+    74
+   ]
+  },
+  {
+   "id": "1",
+   "action": "key:1",
+   "shape": "capsule",
+   "c": [
+    395,
+    1013
+   ],
+   "s": [
+    100,
+    40
+   ]
+  },
+  {
+   "id": "2",
+   "action": "key:2",
+   "shape": "capsule",
+   "c": [
+    514,
+    1013
+   ],
+   "s": [
+    100,
+    40
+   ]
+  },
+  {
+   "id": "3",
+   "action": "key:3",
+   "shape": "capsule",
+   "c": [
+    633,
+    1013
+   ],
+   "s": [
+    100,
+    40
+   ]
+  },
+  {
+   "id": "4",
+   "action": "key:4",
+   "shape": "capsule",
+   "c": [
+    395,
+    1067
+   ],
+   "s": [
+    100,
+    40
+   ]
+  },
+  {
+   "id": "5",
+   "action": "key:5",
+   "shape": "capsule",
+   "c": [
+    514,
+    1067
+   ],
+   "s": [
+    100,
+    40
+   ]
+  },
+  {
+   "id": "6",
+   "action": "key:6",
+   "shape": "capsule",
+   "c": [
+    633,
+    1067
+   ],
+   "s": [
+    100,
+    40
+   ]
+  },
+  {
+   "id": "7",
+   "action": "key:7",
+   "shape": "capsule",
+   "c": [
+    395,
+    1121
+   ],
+   "s": [
+    100,
+    40
+   ]
+  },
+  {
+   "id": "8",
+   "action": "key:8",
+   "shape": "capsule",
+   "c": [
+    514,
+    1121
+   ],
+   "s": [
+    100,
+    40
+   ]
+  },
+  {
+   "id": "9",
+   "action": "key:9",
+   "shape": "capsule",
+   "c": [
+    633,
+    1121
+   ],
+   "s": [
+    100,
+    40
+   ]
+  },
+  {
+   "id": "list",
+   "action": "key:LIST",
+   "shape": "capsule",
+   "c": [
+    395,
+    1174
+   ],
+   "s": [
+    100,
+    40
+   ]
+  },
+  {
+   "id": "0",
+   "action": "key:0",
+   "shape": "capsule",
+   "c": [
+    514,
+    1174
+   ],
+   "s": [
+    100,
+    40
+   ]
+  },
+  {
+   "id": "qview",
+   "action": "key:FLASHBACK",
+   "shape": "capsule",
+   "c": [
+    633,
+    1174
+   ],
+   "s": [
+    100,
+    40
+   ]
+  }
+ ]
+}

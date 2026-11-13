@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsLocalNetworking</key>
+		<true/>
+	</dict>
+	<key>NSBonjourServices</key>
+	<array>
+		<string>_airplay._tcp</string>
+		<string>_hap._tcp</string>
+	</array>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Open Remote connects directly to your LG TV on your Wi‑Fi network. Nothing leaves your home network.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>The microphone is used only while you give a voice command, to turn it into a TV action.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Air Mouse uses your device's motion sensors to move the pointer on your TV.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Choose photos and videos to show on your TV. They are streamed directly over your Wi‑Fi and never uploaded anywhere.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Speech recognition turns your voice command into a TV action. When your iPhone supports it, recognition happens on-device.</string>
+</dict>
+</plist>

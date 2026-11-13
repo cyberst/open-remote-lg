@@ -1,0 +1,218 @@
+{
+ "id": "magic-mr400",
+ "note": "Key centres and sizes in pixels of the ChatGPT source image (1024x1536). map-keys.swift converts them to the processed PNG. The scroll wheel is OK (key:ENTER). '1 2 3 /Q.MENU' maps to key:QMENU; the real key opens an on-screen number pad, which the app can't.",
+ "sourceSize": [
+  1024,
+  1536
+ ],
+ "keys": [
+  {
+   "id": "power",
+   "action": "power",
+   "shape": "capsule",
+   "c": [
+    512,
+    98
+   ],
+   "s": [
+    180,
+    66
+   ]
+  },
+  {
+   "id": "back",
+   "action": "key:BACK",
+   "shape": "rect",
+   "c": [
+    332,
+    258
+   ],
+   "s": [
+    96,
+    170
+   ]
+  },
+  {
+   "id": "home",
+   "action": "key:HOME",
+   "shape": "rect",
+   "c": [
+    692,
+    258
+   ],
+   "s": [
+    96,
+    170
+   ]
+  },
+  {
+   "id": "voice",
+   "action": "voice",
+   "shape": "capsule",
+   "c": [
+    512,
+    432
+   ],
+   "s": [
+    180,
+    72
+   ]
+  },
+  {
+   "id": "up",
+   "action": "key:UP",
+   "shape": "rect",
+   "c": [
+    512,
+    162
+   ],
+   "s": [
+    110,
+    40
+   ]
+  },
+  {
+   "id": "down",
+   "action": "key:DOWN",
+   "shape": "rect",
+   "c": [
+    512,
+    363
+   ],
+   "s": [
+    110,
+    40
+   ]
+  },
+  {
+   "id": "left",
+   "action": "key:LEFT",
+   "shape": "rect",
+   "c": [
+    411,
+    262
+   ],
+   "s": [
+    42,
+    110
+   ]
+  },
+  {
+   "id": "right",
+   "action": "key:RIGHT",
+   "shape": "rect",
+   "c": [
+    612,
+    262
+   ],
+   "s": [
+    42,
+    110
+   ]
+  },
+  {
+   "id": "ok",
+   "action": "key:ENTER",
+   "shape": "capsule",
+   "c": [
+    512,
+    262
+   ],
+   "s": [
+    76,
+    150
+   ]
+  },
+  {
+   "id": "3d",
+   "action": "key:3D_MODE",
+   "shape": "rect",
+   "c": [
+    421,
+    566
+   ],
+   "s": [
+    168,
+    78
+   ]
+  },
+  {
+   "id": "qmenu",
+   "action": "key:QMENU",
+   "shape": "rect",
+   "c": [
+    601,
+    566
+   ],
+   "s": [
+    168,
+    78
+   ]
+  },
+  {
+   "id": "volumeUp",
+   "action": "volumeUp",
+   "shape": "rect",
+   "c": [
+    400,
+    677
+   ],
+   "s": [
+    128,
+    112
+   ]
+  },
+  {
+   "id": "volumeDown",
+   "action": "volumeDown",
+   "shape": "rect",
+   "c": [
+    400,
+    797
+   ],
+   "s": [
+    128,
+    112
+   ]
+  },
+  {
+   "id": "mute",
+   "action": "key:MUTE",
+   "shape": "circle",
+   "c": [
+    512,
+    744
+   ],
+   "s": [
+    88,
+    88
+   ]
+  },
+  {
+   "id": "channelUp",
+   "action": "channelUp",
+   "shape": "rect",
+   "c": [
+    622,
+    677
+   ],
+   "s": [
+    128,
+    112
+   ]
+  },
+  {
+   "id": "channelDown",
+   "action": "channelDown",
+   "shape": "rect",
+   "c": [
+    622,
+    797
+   ],
+   "s": [
+    128,
+    112
+   ]
+  }
+ ]
+}

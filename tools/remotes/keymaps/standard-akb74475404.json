@@ -1,0 +1,634 @@
+{
+  "id": "standard-akb74475404",
+  "note": "Key centres and sizes in pixels of the ChatGPT source image (1024x1536). map-keys.swift converts them to the processed PNG.",
+  "sourceSize": [
+    1024,
+    1536
+  ],
+  "keys": [
+    {
+      "id": "power",
+      "action": "power",
+      "shape": "circle",
+      "c": [
+        384.0,
+        94.0
+      ],
+      "s": [
+        80.0,
+        80.0
+      ]
+    },
+    {
+      "id": "tvRad",
+      "action": "unsupported:TV/Radio",
+      "shape": "circle",
+      "c": [
+        646.0,
+        97.0
+      ],
+      "s": [
+        72.0,
+        72.0
+      ]
+    },
+    {
+      "id": "qmenu",
+      "action": "key:QMENU",
+      "shape": "rect",
+      "c": [
+        379.0,
+        195.0
+      ],
+      "s": [
+        78.0,
+        52.0
+      ]
+    },
+    {
+      "id": "guide",
+      "action": "key:GUIDE",
+      "shape": "rect",
+      "c": [
+        469.0,
+        195.0
+      ],
+      "s": [
+        76.0,
+        52.0
+      ]
+    },
+    {
+      "id": "ad",
+      "action": "key:SAP",
+      "shape": "rect",
+      "c": [
+        559.0,
+        195.0
+      ],
+      "s": [
+        78.0,
+        52.0
+      ]
+    },
+    {
+      "id": "input",
+      "action": "inputs",
+      "shape": "rect",
+      "c": [
+        650.0,
+        195.0
+      ],
+      "s": [
+        78.0,
+        52.0
+      ]
+    },
+    {
+      "id": "1",
+      "action": "key:1",
+      "shape": "rect",
+      "c": [
+        393.0,
+        269.0
+      ],
+      "s": [
+        106.0,
+        52.0
+      ]
+    },
+    {
+      "id": "2",
+      "action": "key:2",
+      "shape": "rect",
+      "c": [
+        514.0,
+        269.0
+      ],
+      "s": [
+        106.0,
+        52.0
+      ]
+    },
+    {
+      "id": "3",
+      "action": "key:3",
+      "shape": "rect",
+      "c": [
+        635.0,
+        269.0
+      ],
+      "s": [
+        106.0,
+        52.0
+      ]
+    },
+    {
+      "id": "4",
+      "action": "key:4",
+      "shape": "rect",
+      "c": [
+        393.0,
+        337.0
+      ],
+      "s": [
+        106.0,
+        52.0
+      ]
+    },
+    {
+      "id": "5",
+      "action": "key:5",
+      "shape": "rect",
+      "c": [
+        514.0,
+        337.0
+      ],
+      "s": [
+        106.0,
+        52.0
+      ]
+    },
+    {
+      "id": "6",
+      "action": "key:6",
+      "shape": "rect",
+      "c": [
+        635.0,
+        337.0
+      ],
+      "s": [
+        106.0,
+        52.0
+      ]
+    },
+    {
+      "id": "7",
+      "action": "key:7",
+      "shape": "rect",
+      "c": [
+        393.0,
+        405.0
+      ],
+      "s": [
+        106.0,
+        52.0
+      ]
+    },
+    {
+      "id": "8",
+      "action": "key:8",
+      "shape": "rect",
+      "c": [
+        514.0,
+        405.0
+      ],
+      "s": [
+        106.0,
+        52.0
+      ]
+    },
+    {
+      "id": "9",
+      "action": "key:9",
+      "shape": "rect",
+      "c": [
+        635.0,
+        405.0
+      ],
+      "s": [
+        106.0,
+        52.0
+      ]
+    },
+    {
+      "id": "list",
+      "action": "key:LIST",
+      "shape": "rect",
+      "c": [
+        393.0,
+        472.0
+      ],
+      "s": [
+        106.0,
+        52.0
+      ]
+    },
+    {
+      "id": "0",
+      "action": "key:0",
+      "shape": "rect",
+      "c": [
+        514.0,
+        472.0
+      ],
+      "s": [
+        106.0,
+        52.0
+      ]
+    },
+    {
+      "id": "qview",
+      "action": "key:FLASHBACK",
+      "shape": "rect",
+      "c": [
+        635.0,
+        472.0
+      ],
+      "s": [
+        106.0,
+        52.0
+      ]
+    },
+    {
+      "id": "volumeUp",
+      "action": "volumeUp",
+      "shape": "rect",
+      "c": [
+        391.0,
+        569.0
+      ],
+      "s": [
+        94.0,
+        96.0
+      ]
+    },
+    {
+      "id": "volumeDown",
+      "action": "volumeDown",
+      "shape": "rect",
+      "c": [
+        391.0,
+        665.0
+      ],
+      "s": [
+        94.0,
+        96.0
+      ]
+    },
+    {
+      "id": "fav",
+      "action": "key:FAVORITES",
+      "shape": "rect",
+      "c": [
+        512.0,
+        553.0
+      ],
+      "s": [
+        100.0,
+        46.0
+      ]
+    },
+    {
+      "id": "info",
+      "action": "key:INFO",
+      "shape": "rect",
+      "c": [
+        512.0,
+        619.0
+      ],
+      "s": [
+        100.0,
+        48.0
+      ]
+    },
+    {
+      "id": "mute",
+      "action": "key:MUTE",
+      "shape": "rect",
+      "c": [
+        512.0,
+        685.0
+      ],
+      "s": [
+        100.0,
+        48.0
+      ]
+    },
+    {
+      "id": "channelUp",
+      "action": "channelUp",
+      "shape": "rect",
+      "c": [
+        639.0,
+        569.0
+      ],
+      "s": [
+        96.0,
+        96.0
+      ]
+    },
+    {
+      "id": "channelDown",
+      "action": "channelDown",
+      "shape": "rect",
+      "c": [
+        639.0,
+        665.0
+      ],
+      "s": [
+        96.0,
+        96.0
+      ]
+    },
+    {
+      "id": "settings",
+      "action": "key:MENU",
+      "shape": "rect",
+      "c": [
+        391.0,
+        770.0
+      ],
+      "s": [
+        106.0,
+        66.0
+      ]
+    },
+    {
+      "id": "smart",
+      "action": "key:HOME",
+      "shape": "rect",
+      "c": [
+        513.0,
+        770.0
+      ],
+      "s": [
+        110.0,
+        66.0
+      ]
+    },
+    {
+      "id": "myApps",
+      "action": "key:MYAPPS",
+      "shape": "rect",
+      "c": [
+        637.0,
+        770.0
+      ],
+      "s": [
+        106.0,
+        66.0
+      ]
+    },
+    {
+      "id": "text",
+      "action": "key:TELETEXT",
+      "shape": "rect",
+      "c": [
+        393.0,
+        849.0
+      ],
+      "s": [
+        104.0,
+        50.0
+      ]
+    },
+    {
+      "id": "tOpt",
+      "action": "key:TEXTOPTION",
+      "shape": "rect",
+      "c": [
+        635.0,
+        849.0
+      ],
+      "s": [
+        104.0,
+        50.0
+      ]
+    },
+    {
+      "id": "up",
+      "action": "key:UP",
+      "shape": "rect",
+      "c": [
+        514.0,
+        862.0
+      ],
+      "s": [
+        92.0,
+        72.0
+      ]
+    },
+    {
+      "id": "left",
+      "action": "key:LEFT",
+      "shape": "rect",
+      "c": [
+        410.0,
+        941.0
+      ],
+      "s": [
+        90.0,
+        72.0
+      ]
+    },
+    {
+      "id": "right",
+      "action": "key:RIGHT",
+      "shape": "rect",
+      "c": [
+        618.0,
+        941.0
+      ],
+      "s": [
+        90.0,
+        72.0
+      ]
+    },
+    {
+      "id": "down",
+      "action": "key:DOWN",
+      "shape": "rect",
+      "c": [
+        514.0,
+        1022.0
+      ],
+      "s": [
+        92.0,
+        72.0
+      ]
+    },
+    {
+      "id": "ok",
+      "action": "key:ENTER",
+      "shape": "rect",
+      "c": [
+        514.0,
+        941.0
+      ],
+      "s": [
+        96.0,
+        76.0
+      ]
+    },
+    {
+      "id": "back",
+      "action": "key:BACK",
+      "shape": "rect",
+      "c": [
+        394.0,
+        1034.0
+      ],
+      "s": [
+        104.0,
+        56.0
+      ]
+    },
+    {
+      "id": "exit",
+      "action": "key:EXIT",
+      "shape": "rect",
+      "c": [
+        635.0,
+        1034.0
+      ],
+      "s": [
+        104.0,
+        50.0
+      ]
+    },
+    {
+      "id": "app",
+      "action": "key:ASTERISK",
+      "shape": "rect",
+      "c": [
+        393.0,
+        1123.0
+      ],
+      "s": [
+        104.0,
+        50.0
+      ]
+    },
+    {
+      "id": "rec",
+      "action": "key:RECORD",
+      "shape": "rect",
+      "c": [
+        514.0,
+        1123.0
+      ],
+      "s": [
+        104.0,
+        50.0
+      ]
+    },
+    {
+      "id": "stop",
+      "action": "key:STOP",
+      "shape": "rect",
+      "c": [
+        636.0,
+        1123.0
+      ],
+      "s": [
+        104.0,
+        50.0
+      ]
+    },
+    {
+      "id": "rewind",
+      "action": "key:REWIND",
+      "shape": "rect",
+      "c": [
+        378.0,
+        1193.0
+      ],
+      "s": [
+        75.0,
+        48.0
+      ]
+    },
+    {
+      "id": "play",
+      "action": "key:PLAY",
+      "shape": "rect",
+      "c": [
+        468.0,
+        1193.0
+      ],
+      "s": [
+        75.0,
+        48.0
+      ]
+    },
+    {
+      "id": "pause",
+      "action": "key:PAUSE",
+      "shape": "rect",
+      "c": [
+        559.0,
+        1193.0
+      ],
+      "s": [
+        75.0,
+        48.0
+      ]
+    },
+    {
+      "id": "fastForward",
+      "action": "key:FASTFORWARD",
+      "shape": "rect",
+      "c": [
+        649.0,
+        1193.0
+      ],
+      "s": [
+        75.0,
+        48.0
+      ]
+    },
+    {
+      "id": "red",
+      "action": "key:RED",
+      "shape": "rect",
+      "c": [
+        378.0,
+        1262.0
+      ],
+      "s": [
+        75.0,
+        48.0
+      ]
+    },
+    {
+      "id": "green",
+      "action": "key:GREEN",
+      "shape": "rect",
+      "c": [
+        468.0,
+        1262.0
+      ],
+      "s": [
+        75.0,
+        48.0
+      ]
+    },
+    {
+      "id": "yellow",
+      "action": "key:YELLOW",
+      "shape": "rect",
+      "c": [
+        559.0,
+        1262.0
+      ],
+      "s": [
+        75.0,
+        48.0
+      ]
+    },
+    {
+      "id": "blue",
+      "action": "key:BLUE",
+      "shape": "rect",
+      "c": [
+        649.0,
+        1262.0
+      ],
+      "s": [
+        75.0,
+        48.0
+      ]
+    }
+  ]
+}

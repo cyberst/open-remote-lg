@@ -1,0 +1,543 @@
+{
+ "id": "standard-akb69680403",
+ "note": "Key centres and sizes in pixels of the ChatGPT source image (1024x1536). map-keys.swift converts them to the processed PNG. The stop/play/pause and rewind/fast-forward symbols printed above the colour and TEXT-row keys are secondary labels; those keys keep their primary actions. RETURN/EXIT maps to key:BACK; the FAV key (MARK printed above) maps to key:FAVORITES.",
+ "sourceSize": [
+  1024,
+  1536
+ ],
+ "keys": [
+  {
+   "id": "tvRad",
+   "action": "unsupported:TV/Radio",
+   "shape": "capsule",
+   "c": [
+    378,
+    95
+   ],
+   "s": [
+    90,
+    40
+   ]
+  },
+  {
+   "id": "power",
+   "action": "power",
+   "shape": "circle",
+   "c": [
+    512,
+    105
+   ],
+   "s": [
+    90,
+    90
+   ]
+  },
+  {
+   "id": "input",
+   "action": "inputs",
+   "shape": "capsule",
+   "c": [
+    647,
+    94
+   ],
+   "s": [
+    90,
+    40
+   ]
+  },
+  {
+   "id": "avMode",
+   "action": "unsupported:AV mode",
+   "shape": "capsule",
+   "c": [
+    377,
+    187
+   ],
+   "s": [
+    92,
+    40
+   ]
+  },
+  {
+   "id": "energySaving",
+   "action": "unsupported:Energy saving",
+   "shape": "capsule",
+   "c": [
+    647,
+    187
+   ],
+   "s": [
+    92,
+    42
+   ]
+  },
+  {
+   "id": "1",
+   "action": "key:1",
+   "shape": "circle",
+   "c": [
+    386,
+    261
+   ],
+   "s": [
+    74,
+    74
+   ]
+  },
+  {
+   "id": "2",
+   "action": "key:2",
+   "shape": "circle",
+   "c": [
+    514,
+    261
+   ],
+   "s": [
+    74,
+    74
+   ]
+  },
+  {
+   "id": "3",
+   "action": "key:3",
+   "shape": "circle",
+   "c": [
+    641,
+    261
+   ],
+   "s": [
+    74,
+    74
+   ]
+  },
+  {
+   "id": "4",
+   "action": "key:4",
+   "shape": "circle",
+   "c": [
+    386,
+    343
+   ],
+   "s": [
+    74,
+    74
+   ]
+  },
+  {
+   "id": "5",
+   "action": "key:5",
+   "shape": "circle",
+   "c": [
+    514,
+    343
+   ],
+   "s": [
+    74,
+    74
+   ]
+  },
+  {
+   "id": "6",
+   "action": "key:6",
+   "shape": "circle",
+   "c": [
+    641,
+    343
+   ],
+   "s": [
+    74,
+    74
+   ]
+  },
+  {
+   "id": "7",
+   "action": "key:7",
+   "shape": "circle",
+   "c": [
+    386,
+    426
+   ],
+   "s": [
+    74,
+    74
+   ]
+  },
+  {
+   "id": "8",
+   "action": "key:8",
+   "shape": "circle",
+   "c": [
+    514,
+    426
+   ],
+   "s": [
+    74,
+    74
+   ]
+  },
+  {
+   "id": "9",
+   "action": "key:9",
+   "shape": "circle",
+   "c": [
+    641,
+    426
+   ],
+   "s": [
+    74,
+    74
+   ]
+  },
+  {
+   "id": "list",
+   "action": "key:LIST",
+   "shape": "circle",
+   "c": [
+    386,
+    509
+   ],
+   "s": [
+    74,
+    74
+   ]
+  },
+  {
+   "id": "0",
+   "action": "key:0",
+   "shape": "circle",
+   "c": [
+    514,
+    509
+   ],
+   "s": [
+    74,
+    74
+   ]
+  },
+  {
+   "id": "qview",
+   "action": "key:FLASHBACK",
+   "shape": "circle",
+   "c": [
+    641,
+    509
+   ],
+   "s": [
+    74,
+    74
+   ]
+  },
+  {
+   "id": "volumeUp",
+   "action": "volumeUp",
+   "shape": "rect",
+   "c": [
+    390,
+    610
+   ],
+   "s": [
+    84,
+    96
+   ]
+  },
+  {
+   "id": "volumeDown",
+   "action": "volumeDown",
+   "shape": "rect",
+   "c": [
+    390,
+    705
+   ],
+   "s": [
+    84,
+    96
+   ]
+  },
+  {
+   "id": "mute",
+   "action": "key:MUTE",
+   "shape": "circle",
+   "c": [
+    512,
+    672
+   ],
+   "s": [
+    72,
+    72
+   ]
+  },
+  {
+   "id": "channelUp",
+   "action": "channelUp",
+   "shape": "rect",
+   "c": [
+    634,
+    610
+   ],
+   "s": [
+    84,
+    96
+   ]
+  },
+  {
+   "id": "channelDown",
+   "action": "channelDown",
+   "shape": "rect",
+   "c": [
+    634,
+    705
+   ],
+   "s": [
+    84,
+    96
+   ]
+  },
+  {
+   "id": "up",
+   "action": "key:UP",
+   "shape": "rect",
+   "c": [
+    512,
+    785
+   ],
+   "s": [
+    140,
+    70
+   ]
+  },
+  {
+   "id": "down",
+   "action": "key:DOWN",
+   "shape": "rect",
+   "c": [
+    512,
+    990
+   ],
+   "s": [
+    140,
+    70
+   ]
+  },
+  {
+   "id": "left",
+   "action": "key:LEFT",
+   "shape": "rect",
+   "c": [
+    405,
+    885
+   ],
+   "s": [
+    70,
+    140
+   ]
+  },
+  {
+   "id": "right",
+   "action": "key:RIGHT",
+   "shape": "rect",
+   "c": [
+    620,
+    885
+   ],
+   "s": [
+    70,
+    140
+   ]
+  },
+  {
+   "id": "ok",
+   "action": "key:ENTER",
+   "shape": "circle",
+   "c": [
+    512,
+    885
+   ],
+   "s": [
+    136,
+    136
+   ]
+  },
+  {
+   "id": "menu",
+   "action": "key:MENU",
+   "shape": "circle",
+   "c": [
+    378,
+    1037
+   ],
+   "s": [
+    66,
+    66
+   ]
+  },
+  {
+   "id": "back",
+   "action": "key:BACK",
+   "shape": "circle",
+   "c": [
+    640,
+    1037
+   ],
+   "s": [
+    66,
+    66
+   ]
+  },
+  {
+   "id": "red",
+   "action": "key:RED",
+   "shape": "capsule",
+   "c": [
+    377,
+    1172
+   ],
+   "s": [
+    72,
+    34
+   ]
+  },
+  {
+   "id": "green",
+   "action": "key:GREEN",
+   "shape": "capsule",
+   "c": [
+    466,
+    1172
+   ],
+   "s": [
+    72,
+    34
+   ]
+  },
+  {
+   "id": "yellow",
+   "action": "key:YELLOW",
+   "shape": "capsule",
+   "c": [
+    556,
+    1172
+   ],
+   "s": [
+    72,
+    34
+   ]
+  },
+  {
+   "id": "blue",
+   "action": "key:BLUE",
+   "shape": "capsule",
+   "c": [
+    646,
+    1172
+   ],
+   "s": [
+    72,
+    34
+   ]
+  },
+  {
+   "id": "text",
+   "action": "key:TELETEXT",
+   "shape": "capsule",
+   "c": [
+    376,
+    1247
+   ],
+   "s": [
+    72,
+    32
+   ]
+  },
+  {
+   "id": "tOpt",
+   "action": "key:TEXTOPTION",
+   "shape": "capsule",
+   "c": [
+    466,
+    1247
+   ],
+   "s": [
+    72,
+    32
+   ]
+  },
+  {
+   "id": "subtitle",
+   "action": "key:CC",
+   "shape": "capsule",
+   "c": [
+    559,
+    1247
+   ],
+   "s": [
+    72,
+    32
+   ]
+  },
+  {
+   "id": "simplink",
+   "action": "unsupported:SimpLink",
+   "shape": "capsule",
+   "c": [
+    651,
+    1247
+   ],
+   "s": [
+    72,
+    32
+   ]
+  },
+  {
+   "id": "qmenu",
+   "action": "key:QMENU",
+   "shape": "capsule",
+   "c": [
+    376,
+    1333
+   ],
+   "s": [
+    72,
+    32
+   ]
+  },
+  {
+   "id": "info",
+   "action": "key:INFO",
+   "shape": "capsule",
+   "c": [
+    466,
+    1333
+   ],
+   "s": [
+    72,
+    32
+   ]
+  },
+  {
+   "id": "guide",
+   "action": "key:GUIDE",
+   "shape": "capsule",
+   "c": [
+    559,
+    1333
+   ],
+   "s": [
+    72,
+    32
+   ]
+  },
+  {
+   "id": "fav",
+   "action": "key:FAVORITES",
+   "shape": "capsule",
+   "c": [
+    651,
+    1333
+   ],
+   "s": [
+    72,
+    32
+   ]
+  }
+ ]
+}

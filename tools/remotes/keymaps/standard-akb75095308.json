@@ -1,0 +1,634 @@
+{
+ "id": "standard-akb75095308",
+ "note": "Key centres and sizes in pixels of the ChatGPT source image (1024x1536, generated 2026-11-08). map-keys.swift converts them to the processed PNG.",
+ "sourceSize": [
+  1024,
+  1536
+ ],
+ "keys": [
+  {
+   "id": "power",
+   "action": "power",
+   "shape": "circle",
+   "c": [
+    379,
+    116
+   ],
+   "s": [
+    72,
+    72
+   ]
+  },
+  {
+   "id": "tvRadio",
+   "action": "unsupported:TV/Radio",
+   "shape": "circle",
+   "c": [
+    645,
+    121
+   ],
+   "s": [
+    68,
+    68
+   ]
+  },
+  {
+   "id": "input",
+   "action": "inputs",
+   "shape": "rect",
+   "c": [
+    377,
+    202
+   ],
+   "s": [
+    74,
+    58
+   ]
+  },
+  {
+   "id": "settings",
+   "action": "key:QMENU",
+   "shape": "rect",
+   "c": [
+    464,
+    202
+   ],
+   "s": [
+    70,
+    58
+   ]
+  },
+  {
+   "id": "liveZoom",
+   "action": "key:LIVE_ZOOM",
+   "shape": "rect",
+   "c": [
+    555,
+    202
+   ],
+   "s": [
+    72,
+    58
+   ]
+  },
+  {
+   "id": "subtitle",
+   "action": "key:CC",
+   "shape": "rect",
+   "c": [
+    647,
+    202
+   ],
+   "s": [
+    78,
+    58
+   ]
+  },
+  {
+   "id": "1",
+   "action": "key:1",
+   "shape": "rect",
+   "c": [
+    391,
+    285
+   ],
+   "s": [
+    100,
+    58
+   ]
+  },
+  {
+   "id": "2",
+   "action": "key:2",
+   "shape": "rect",
+   "c": [
+    511,
+    285
+   ],
+   "s": [
+    100,
+    58
+   ]
+  },
+  {
+   "id": "3",
+   "action": "key:3",
+   "shape": "rect",
+   "c": [
+    633,
+    285
+   ],
+   "s": [
+    100,
+    58
+   ]
+  },
+  {
+   "id": "4",
+   "action": "key:4",
+   "shape": "rect",
+   "c": [
+    391,
+    360
+   ],
+   "s": [
+    100,
+    58
+   ]
+  },
+  {
+   "id": "5",
+   "action": "key:5",
+   "shape": "rect",
+   "c": [
+    511,
+    360
+   ],
+   "s": [
+    100,
+    58
+   ]
+  },
+  {
+   "id": "6",
+   "action": "key:6",
+   "shape": "rect",
+   "c": [
+    633,
+    360
+   ],
+   "s": [
+    100,
+    58
+   ]
+  },
+  {
+   "id": "7",
+   "action": "key:7",
+   "shape": "rect",
+   "c": [
+    391,
+    435
+   ],
+   "s": [
+    100,
+    58
+   ]
+  },
+  {
+   "id": "8",
+   "action": "key:8",
+   "shape": "rect",
+   "c": [
+    511,
+    435
+   ],
+   "s": [
+    100,
+    58
+   ]
+  },
+  {
+   "id": "9",
+   "action": "key:9",
+   "shape": "rect",
+   "c": [
+    633,
+    435
+   ],
+   "s": [
+    100,
+    58
+   ]
+  },
+  {
+   "id": "list",
+   "action": "key:LIST",
+   "shape": "rect",
+   "c": [
+    391,
+    511
+   ],
+   "s": [
+    100,
+    58
+   ]
+  },
+  {
+   "id": "0",
+   "action": "key:0",
+   "shape": "rect",
+   "c": [
+    511,
+    511
+   ],
+   "s": [
+    100,
+    58
+   ]
+  },
+  {
+   "id": "guide",
+   "action": "key:GUIDE",
+   "shape": "rect",
+   "c": [
+    633,
+    511
+   ],
+   "s": [
+    100,
+    58
+   ]
+  },
+  {
+   "id": "volumeUp",
+   "action": "volumeUp",
+   "shape": "rect",
+   "c": [
+    391,
+    613
+   ],
+   "s": [
+    100,
+    96
+   ]
+  },
+  {
+   "id": "volumeDown",
+   "action": "volumeDown",
+   "shape": "rect",
+   "c": [
+    391,
+    710
+   ],
+   "s": [
+    100,
+    96
+   ]
+  },
+  {
+   "id": "info",
+   "action": "key:INFO",
+   "shape": "rect",
+   "c": [
+    511,
+    599
+   ],
+   "s": [
+    96,
+    52
+   ]
+  },
+  {
+   "id": "search",
+   "action": "key:SEARCH",
+   "shape": "rect",
+   "c": [
+    512,
+    665
+   ],
+   "s": [
+    96,
+    52
+   ]
+  },
+  {
+   "id": "mute",
+   "action": "key:MUTE",
+   "shape": "rect",
+   "c": [
+    512,
+    731
+   ],
+   "s": [
+    96,
+    52
+   ]
+  },
+  {
+   "id": "channelUp",
+   "action": "channelUp",
+   "shape": "rect",
+   "c": [
+    633,
+    613
+   ],
+   "s": [
+    102,
+    96
+   ]
+  },
+  {
+   "id": "channelDown",
+   "action": "channelDown",
+   "shape": "rect",
+   "c": [
+    633,
+    710
+   ],
+   "s": [
+    102,
+    96
+   ]
+  },
+  {
+   "id": "netflix",
+   "action": "app:netflix",
+   "shape": "rect",
+   "c": [
+    395,
+    813
+   ],
+   "s": [
+    110,
+    58
+   ]
+  },
+  {
+   "id": "home",
+   "action": "key:HOME",
+   "shape": "rect",
+   "c": [
+    512,
+    814
+   ],
+   "s": [
+    96,
+    58
+   ]
+  },
+  {
+   "id": "amazon",
+   "action": "app:amazon",
+   "shape": "rect",
+   "c": [
+    631,
+    813
+   ],
+   "s": [
+    110,
+    58
+   ]
+  },
+  {
+   "id": "back",
+   "action": "key:BACK",
+   "shape": "rect",
+   "c": [
+    391,
+    891
+   ],
+   "s": [
+    100,
+    58
+   ]
+  },
+  {
+   "id": "up",
+   "action": "key:UP",
+   "shape": "rect",
+   "c": [
+    512,
+    891
+   ],
+   "s": [
+    96,
+    58
+   ]
+  },
+  {
+   "id": "exit",
+   "action": "key:EXIT",
+   "shape": "rect",
+   "c": [
+    633,
+    891
+   ],
+   "s": [
+    102,
+    58
+   ]
+  },
+  {
+   "id": "left",
+   "action": "key:LEFT",
+   "shape": "rect",
+   "c": [
+    396,
+    970
+   ],
+   "s": [
+    100,
+    60
+   ]
+  },
+  {
+   "id": "right",
+   "action": "key:RIGHT",
+   "shape": "rect",
+   "c": [
+    630,
+    970
+   ],
+   "s": [
+    100,
+    60
+   ]
+  },
+  {
+   "id": "ok",
+   "action": "key:ENTER",
+   "shape": "rect",
+   "c": [
+    513,
+    970
+   ],
+   "s": [
+    112,
+    80
+   ]
+  },
+  {
+   "id": "text",
+   "action": "key:TELETEXT",
+   "shape": "rect",
+   "c": [
+    393,
+    1053
+   ],
+   "s": [
+    104,
+    56
+   ]
+  },
+  {
+   "id": "down",
+   "action": "key:DOWN",
+   "shape": "rect",
+   "c": [
+    512,
+    1053
+   ],
+   "s": [
+    94,
+    56
+   ]
+  },
+  {
+   "id": "textOption",
+   "action": "key:TEXTOPTION",
+   "shape": "rect",
+   "c": [
+    633,
+    1053
+   ],
+   "s": [
+    104,
+    56
+   ]
+  },
+  {
+   "id": "ad",
+   "action": "key:SAP",
+   "shape": "rect",
+   "c": [
+    391,
+    1134
+   ],
+   "s": [
+    100,
+    54
+   ]
+  },
+  {
+   "id": "record",
+   "action": "key:RECORD",
+   "shape": "rect",
+   "c": [
+    514,
+    1134
+   ],
+   "s": [
+    106,
+    54
+   ]
+  },
+  {
+   "id": "stop",
+   "action": "key:STOP",
+   "shape": "rect",
+   "c": [
+    634,
+    1134
+   ],
+   "s": [
+    98,
+    54
+   ]
+  },
+  {
+   "id": "rewind",
+   "action": "key:REWIND",
+   "shape": "rect",
+   "c": [
+    378,
+    1215
+   ],
+   "s": [
+    74,
+    50
+   ]
+  },
+  {
+   "id": "play",
+   "action": "key:PLAY",
+   "shape": "rect",
+   "c": [
+    467,
+    1215
+   ],
+   "s": [
+    74,
+    50
+   ]
+  },
+  {
+   "id": "pause",
+   "action": "key:PAUSE",
+   "shape": "rect",
+   "c": [
+    559,
+    1215
+   ],
+   "s": [
+    74,
+    50
+   ]
+  },
+  {
+   "id": "fastForward",
+   "action": "key:FASTFORWARD",
+   "shape": "rect",
+   "c": [
+    648,
+    1215
+   ],
+   "s": [
+    74,
+    50
+   ]
+  },
+  {
+   "id": "red",
+   "action": "key:RED",
+   "shape": "rect",
+   "c": [
+    378,
+    1285
+   ],
+   "s": [
+    75,
+    50
+   ]
+  },
+  {
+   "id": "green",
+   "action": "key:GREEN",
+   "shape": "rect",
+   "c": [
+    468,
+    1285
+   ],
+   "s": [
+    72,
+    50
+   ]
+  },
+  {
+   "id": "yellow",
+   "action": "key:YELLOW",
+   "shape": "rect",
+   "c": [
+    558,
+    1285
+   ],
+   "s": [
+    72,
+    50
+   ]
+  },
+  {
+   "id": "blue",
+   "action": "key:BLUE",
+   "shape": "rect",
+   "c": [
+    648,
+    1285
+   ],
+   "s": [
+    75,
+    50
+   ]
+  }
+ ]
+}
